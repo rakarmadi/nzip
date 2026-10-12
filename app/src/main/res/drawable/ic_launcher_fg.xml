@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Box with a zipper down the middle. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,34h36a4,4 0 0,1 4,4v32a4,4 0 0,1 -4,4h-36a4,4 0 0,1 -4,-4v-32a4,4 0 0,1 4,-4z" />
+    <path
+        android:fillColor="#3B5BDB"
+        android:pathData="M50,34h4v4h-4zM54,38h4v4h-4zM50,42h4v4h-4zM54,46h4v4h-4zM50,50h4v4h-4zM49,56h10v10h-10z" />
+</vector>

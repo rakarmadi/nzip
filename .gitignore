@@ -1,0 +1,9 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+*.jks
+# Built by native/build-7zz.sh
+native/build/
+app/src/main/jniLibs/
+mockup.html
